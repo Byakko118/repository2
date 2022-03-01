@@ -1,0 +1,5 @@
+﻿  1.03.2022.cpp
+C:\Users\okowalewski363\source\repos\1.03.2022\1.03.2022\1.03.2022.cpp(8,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\okowalewski363\source\repos\1.03.2022\1.03.2022\1.03.2022.cpp(9,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\okowalewski363\source\repos\1.03.2022\1.03.2022\1.03.2022.cpp(16,15): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  1.03.2022.vcxproj -> C:\Users\okowalewski363\source\repos\1.03.2022\Debug\1.03.2022.exe
